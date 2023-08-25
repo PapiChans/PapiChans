@@ -17,8 +17,8 @@ About Me</h1>
 - **Currently a Third-Year Information Technology College Student in [Polytechnic University of the Philippines](https://www.pup.edu.ph) - Quezon City Branch.**
 - **Email me at chris.altiche123@gmail.com**
 - **Also have a knowledge in Video Editing.**
-- **I love to watch Anime, Reading Manga / Wattpad / Books and play Games**
-- **Have a knowledge and skills in Music Field**
+- **I love to watch Anime, Reading Manga / Wattpad / Books and play Games.**
+- **Have a knowledge and skills in Music Field.**
 - **Fun Fact: The quote above on this profile is orginally invented by me.**
 
 ---
