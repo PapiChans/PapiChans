@@ -16,7 +16,8 @@
 🎓 **Graduated on Senior High School Level at [Asian Institute of Computer Studies](https://aics.edu.ph/) - Commonwealth Branch**<br>
 🎓 **Currently a Fourth-Year Information Technology College Student in [Polytechnic University of the Philippines](https://www.pup.edu.ph) - Quezon City Campus**<br>
 💻 **Aspiring Full-Stack Developer**<br>
-🖥 **Average Anime/Mange Viewer and Gamer**<br>
+🖥 **Average Anime/Manga Viewer**<br>
+🕹 **Gaming is my Hobby**<br>
 🎵 **Musically Proficient so I'm also interested in Music**<br>
 🤞 **Fun Fact: That quote above is my own invented quote for fun**<br>
 
