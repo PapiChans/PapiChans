@@ -44,11 +44,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=PapiChans&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
-
-<p align="center">Last Updated: July 15, 2024 : Monday</p>
-
 ---
 
 <h2 align="left">🐍 Watch my Snake to eat my Contributions</h2>
+
 <img src="https://raw.githubusercontent.com/papichans/papichans/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<p align="center">Last Updated: July 15, 2024 : Monday</p>
