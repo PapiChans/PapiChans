@@ -48,4 +48,4 @@
 
 <p align="center">Last Updated: July 15, 2024 : Monday</p>
 
-![snake gif](https://github.com/PapiChans/PapiChans/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/papichans/papichans/output/snake.svg" alt="Snake animation" />
