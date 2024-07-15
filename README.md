@@ -10,10 +10,25 @@
 🎓 **Graduated on Senior High School Level at [Asian Institute of Computer Studies](https://aics.edu.ph/) - Commonwealth Branch**<br>
 🎓 **Currently a Fourth-Year Information Technology College Student in [Polytechnic University of the Philippines](https://www.pup.edu.ph) - Quezon City Campus**<br>
 💻 **Aspiring Full-Stack Developer**<br>
-💬 **Feel free to contact me through LinkedIn or E-Mail**<br>
 🖥 **Average Anime/Mange Viewer and Gamer**<br>
 🎵 **Musically Proficient so I'm also interested in Music**<br>
 🤞 **Fun Fact: That quote above is my own invented quote for fun**<br>
+
+---
+
+<h3 align="center">💬 Connect with me</h3>
+
+<div align="left">
+  <a href="https://ph.linkedin.com/in/christian-altiche-9b8065271" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="@papichans" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="chris.altiche123@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ---
 
