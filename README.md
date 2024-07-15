@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="center">💬 Connect with me</h3>
+<h2 align="left">💬 Connect with me</h2>
 
 <div align="center">
   <a href="https://ph.linkedin.com/in/christian-altiche-9b8065271" target="_blank">
