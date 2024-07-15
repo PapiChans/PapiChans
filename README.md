@@ -48,4 +48,7 @@
 
 <p align="center">Last Updated: July 15, 2024 : Monday</p>
 
+---
+
+<h2 align="left">🐍 Watch my Snake to eat my Contributions</h2>
 <img src="https://raw.githubusercontent.com/papichans/papichans/output/snake.svg" alt="Snake animation" />
