@@ -18,7 +18,7 @@
 
 <h3 align="center">💬 Connect with me</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://ph.linkedin.com/in/christian-altiche-9b8065271" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -61,7 +61,7 @@
 
 ---
 
-<h2 align="left">🐍 Watch my Snake to eat my Contributions</h2>
+<h2 align="left">🐍 Watch my Snake eating my Contributions</h2>
 
 <img src="https://raw.githubusercontent.com/papichans/papichans/output/snake.svg" alt="Snake animation" />
 
