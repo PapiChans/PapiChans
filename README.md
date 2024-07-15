@@ -3,6 +3,12 @@
 <h2 align="center">"I'm not good at Programming but I can debug your feelings."</h2>
 <h3 align="center">💎 Hello World, I'm Christian Altiche 💻</h3>
 
+<div align="center">
+  <img height="600" src="https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs"  />
+</div>
+
+###
+
 ---
 
 <h2 align="left">✨ About Me:</h2>
