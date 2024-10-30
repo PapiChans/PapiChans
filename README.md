@@ -1,7 +1,7 @@
 ---
 
-<h2 align="center">"I'm not good at Programming but I can debug your feelings."</h2>
-<h3 align="center">💎 Hello World, I'm Christian Altiche 💻</h3>
+<h2 align="center">"I'm not good at programming but I can debug your feeling."</h2>
+<h3 align="center">Hello World, I'm Christian</h3>
 
 <div align="center">
   <img width="100%" src="https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs"  />
@@ -12,7 +12,7 @@
 <h2 align="left">✨ About Me:</h2>
 
 🎓 **Graduated on Senior High School Level at [Asian Institute of Computer Studies](https://aics.edu.ph/) - Commonwealth Branch**<br>
-🎓 **Currently a Fourth-Year Information Technology College Student in [Polytechnic University of the Philippines](https://www.pup.edu.ph) - Quezon City Campus**<br>
+🎓 **Graduated at the course of Bachelor of Science in Information Technology at [Polytechnic University of the Philippines](https://www.pup.edu.ph) - Quezon City Campus**<br>
 💻 **Aspiring Full-Stack Developer**<br>
 🖥 **Average Anime/Manga Viewer**<br>
 🕹 **Gaming is my Hobby**<br>
@@ -70,7 +70,7 @@
 
 ---
 
-<h2 align="left">🐍 Watch my Snake eating my Contributions</h2>
+<h2 align="left">🐍 Watch my snake eating my contributions</h2>
 
 <img src="https://raw.githubusercontent.com/papichans/papichans/output/snake.svg" alt="Snake animation" />
 
@@ -78,4 +78,4 @@
 
 ---
 
-<p align="center">Last Updated: July 16, 2024 : Tuesday</p>
+<p align="center">Last Updated: October 30, 2024 : Wednesday</p>
