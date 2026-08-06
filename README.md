@@ -21,6 +21,13 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=papichans&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=papichans&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=papichans&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 <h2 align="left">🐍 Watch my snake eating my contributions</h2>
 
 <img src="https://raw.githubusercontent.com/papichans/papichans/output/snake.svg" alt="Snake animation" />
